@@ -1,0 +1,5 @@
+<map id="Client" name="Client">
+<area shape="rect" id="Node000001" title="Базовый класс, представляющий клиента банка" alt="" coords="11,5,95,117"/>
+<area shape="rect" id="Node000002" href="$class_account.html" title="Класс, представляющий банковский счет" alt="" coords="5,165,101,299"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,133,56,166,51,166,51,133"/>
+</map>
